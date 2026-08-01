@@ -1,3 +1,4 @@
 # myfirst-repo
 This is my first Git Repository.
-author - Kiran
+<br>
+author -<b> Kiran</b>
